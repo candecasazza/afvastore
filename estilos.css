@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box
+}
+
+body{
+    background-color: #12141D; /* Color de Fondo */
+    color: white;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background-color: white;
+}
+
+/* Colores */
+.texto-verde{
+    /*color: #CCF441;*/
+    color: yellowgreen;
+}
+
+/* Fuentes */
+
+.fuente-titulos{
+    font-family: 'Roboto', sans-serif;
+}
+
+.portada-img1{
+    background-image: url(media/modelo1.jpg);
+    height: 600px;
+    width: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+
+.portada-img1 img{
+    width: 400px;
+    margin-top: 80px;
+    margin-left: 20px;
+}
+
+.portada-img2{
+    background-image: url(media/modelofem.jpg);
+    height: 600px;
+    width: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+
+.portada-img3{
+    background-image: url(media/modelo2.jpg);
+    height: 600px;
+    width: 100%; 
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-bottom: 15px;
+}
+
+.carrito{
+    background-color: yellowgreen;
+    
+}
+
+.footer{
+    background-color: whitesmoke;
+    color: black;
+}

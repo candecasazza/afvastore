@@ -1,0 +1,82 @@
+[
+	{
+		"id": "1",
+		"marca": "Adidas",
+		"nombre": "Osweego",
+		"talle": "42.5",
+		"precio": 6299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "2",
+		"marca": "Nike",
+		"nombre": "Excee",
+		"talle": "37",
+		"precio": 6999,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "3",
+		"marca": "Nike",
+		"nombre": "Air Max",
+		"talle": "39",
+		"precio": 6999,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "4",
+		"marca": "Jaguar",
+		"nombre": "Galaxy",
+		"talle": "43",
+		"precio": 3299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "5",
+		"marca": "Jaguar",
+		"nombre": "White",
+		"talle": "39",
+		"precio": 3299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "1",
+		"marca": "Adidas",
+		"nombre": "Osweego",
+		"talle": "42.5",
+		"precio": 6299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "2",
+		"marca": "Nike",
+		"nombre": "Excee",
+		"talle": "37",
+		"precio": 6999,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "3",
+		"marca": "Nike",
+		"nombre": "Air Max",
+		"talle": "39",
+		"precio": 6999,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "4",
+		"marca": "Jaguar",
+		"nombre": "Galaxy",
+		"talle": "43",
+		"precio": 3299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	},
+	{
+		"id": "5",
+		"marca": "Jaguar",
+		"nombre": "White",
+		"talle": "39",
+		"precio": 3299,
+		"img": "media/Adidas-OZWEEGO.jpg"
+	}
+]
